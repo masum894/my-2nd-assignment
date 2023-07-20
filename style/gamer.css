@@ -79,6 +79,36 @@ div button{
 .btn{
     text-align: center;
 }
+.rd-head h2{
+font-weight: 700px;
+}
+.rd-head span{
+    color: #F948B2;
+}
 .rd-body{
     display: flex;
+}
+.d-left{
+    align-items: center;
+    margin-bottom: 260px;
+    margin-left: 50px;
+    padding-top: 200px;
+}
+.d-left span{
+    color: #F948B2;
+}
+.d-left p{
+    font-size: 18px;
+    width: 400px;
+    margin: auto;
+}
+.img-bnr{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img-bnr .secend-imgs{
+    position: relative;
+    bottom: 295px;
+    right: 140px;
 }
