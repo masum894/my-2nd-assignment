@@ -112,3 +112,14 @@ font-weight: 700px;
     bottom: 295px;
     right: 140px;
 }
+.main-card{
+    display: grid;
+    grid-template-columns: repeat(5, 2fr);
+    gap: 50px;
+    padding: 0 50px;
+}
+.main-card .card:hover{
+    color: #F948B2;
+    border: 2px solid #F948B2;
+    border-radius: 22px;
+}
