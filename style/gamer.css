@@ -123,3 +123,60 @@ font-weight: 700px;
     border: 2px solid #F948B2;
     border-radius: 22px;
 }
+footer{
+    background-color: black;
+    margin-top: 50px;
+}
+.logo-footer{
+    display: flex;
+    justify-content: center;
+    gap: 19px;
+}
+.logo-footer img{
+    width: 86.041px;
+    height: 40px;
+    padding-top: 45px;
+}
+.logo-collor{
+    font-size: 45px;
+    color: white;
+}
+.logo-footer span{
+    color: #F948B2;
+    
+}
+footer .first-ul ul{
+    display: flex;
+    list-style: none;
+    margin-left: 450px;
+    gap: 50px;
+}
+footer .first-ul li{
+    color: white;
+    border: 1px solid red;
+}
+.second-ul ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    justify-content: center;
+}
+    .second-ul img{
+        width: 40px;
+        height: 40px;
+    }
+    .third-ul ul{
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        gap: 60px;
+    }
+    .third-ul li{
+        color: white;
+    }
+    footer p{
+        color: white;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 50px;
+    }
